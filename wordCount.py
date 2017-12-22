@@ -1,4 +1,4 @@
-input_file = "/Users/coblere/tiny_dancer/BackEnd/WordCount/TextFiles/305-KFAQ-Thrive-Time-Show-9-28-17-Entire-Show-With-Ads-59d3bd6e55e9910e44b0d938.txt"
+input_file = "yourtextfile.txt"
 
 
 def text_blocks(text_file):
