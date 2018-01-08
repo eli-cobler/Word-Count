@@ -1,4 +1,7 @@
-input_file = "yourtextfile.txt"
+# This file counts the number of words in the txt file provided 
+# And then adds some returns/newline characters after 1000 words.  
+
+input_file = input("Please provide path pointing to your textfile: ")
 
 
 def text_blocks(text_file):
